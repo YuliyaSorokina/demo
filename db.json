@@ -1,8 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "post_id": 1, "user_name": "Yuliya", "title": "About React", "description": "This post is about React", "content ": "bla bla bla", "created_at": "11.11.11", "updated_at": "11.11.21" },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
