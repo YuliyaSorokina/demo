@@ -8,6 +8,7 @@
     { "id": 6, "name": "Mrs. Dennis Schulist", "email": "Karley_Dach@jasper.info", "city": "Roma" },
     { "id": 7, "name": "Kurtis Weissnat", "email": "Telly.Hoeger@billy.biz", "city": "London"}
 ],
+  "cities": ["Chicago", "London", "Roma"],
   "profile": {
     "name": "typicode"
   }
