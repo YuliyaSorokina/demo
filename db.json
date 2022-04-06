@@ -1,13 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "user_name": "Yuliya", "title": "About React", "description": "This post is about React", "content ": "bla bla bla", "created_at": "2021-09-03T07:34:42.413-04:00", "updated_at": "2021-09-03T07:35:42.413-04:00" },
-    { "post_id": 2, "user_name": "Alex", "title": "param pam pam", "description": "purum pum pum", "content ": "mur mur mur", "created_at": "2020-08-03T07:34:42.413-04:00", "updated_at": "2020-09-03T07:34:42.413-04:00" },
-    { "post_id": 3, "user_name": "Mike", "title": "Hooks", "description": "React's new hooks APIs give function components the ability to use local component state, execute side effects, and more. React also lets us write custom hooks, which let us extract reusable hooks to add our own behavior on top of React's built-in hooks.", "content ": "Using Hooks in a React Redux App", "created_at": "2021-09-05T07:34:42.413-04:00", "updated_at": "2021-09-06T07:34:42.413-04:00" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "users": [
+    { "id": 1, "name": "Leanne Graham", "email": "Sincere@april.biz" },
+    { "id": 2, "name": "Ervin Howell", "email": "Shanna@melissa.tv" },
+    { "id": 3, "name": "Clementine Bauch", "email": "Nathan@yesenia.net" },
+    { "id": 4, "name": "Patricia Lebsack", "email": "Julianne.OConner@kory.org" },
+    { "id": 5, "name": "Chelsey Dietrich", "email": "Lucio_Hettinger@annie.ca" },
+    { "id": 6, "name": "Mrs. Dennis Schulist", "email": "Karley_Dach@jasper.info" },
+    { "id": 7, "name": "Kurtis Weissnat", "email": "Telly.Hoeger@billy.biz" }
+],
   "profile": {
     "name": "typicode"
   }
