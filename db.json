@@ -11,7 +11,8 @@
   "cities": [
     {"id": 1, "name": "Chicago"},
     {"id": 2, "name": "London"}, 
-    {"id": 3, "name": "Roma"}
+    {"id": 3, "name": "Roma"},
+    {"id": 4, "name": "Tokyo"}
   ],
   "profile": {
     "name": "typicode"
