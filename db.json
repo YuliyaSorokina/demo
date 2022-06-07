@@ -20,7 +20,7 @@
     {"id": 9, "name": "Riga"},
     {"id": 10, "name": "Berlin"}, 
     {"id": 11, "name": "Ankara"},
-    {"id": 12, "name": "Stockholm"},
+    {"id": 12, "name": "Stockholm"}
   ],
   "profile": {
     "name": "typicode"
