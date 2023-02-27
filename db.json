@@ -1,30 +1,15 @@
 {
   "users": [
-        { "id": 1, "name": "Leanne Graham", "email": "Sincere@april.biz", "city": {"id": 4, "name": "Tokyo"} },
-    { "id": 2, "name": "Ervin Howell", "email": "Shanna@melissa.tv", "city": {"id": 1, "name": "London"} },
-    { "id": 3, "name": "Clementine Bauch", "email": "Nathan@yesenia.net", "city": {"id": 4, "name": "Tokyo"} },
-    { "id": 4, "name": "Patricia Lebsack", "email": "Julianne.OConner@kory.org", "city": {"id": 1, "name": "London"} },
-    { "id": 5, "name": "Chelsey Dietrich", "email": "Lucio_Hettinger@annie.ca", "city": {"id": 1, "name": "London"} },
-    { "id": 6, "name": "Mrs. Dennis Schulist", "email": "Karley_Dach@jasper.info", "city": {"id": 3, "name": "Roma"} },
-    { "id": 7, "name": "Kurtis Weissnat", "email": "Telly.Hoeger@billy.biz", "city": {"id": 1, "name": "London"} }
+    { "id": 1, "name": "Leanne Graham", "email": "Sincere@april.biz", "city": "Tokyo" },
+    { "id": 2, "name": "Ervin Howell", "email": "Shanna@melissa.tv", "city": "London" },
+    { "id": 3, "name": "Clementine Bauch", "email": "Nathan@yesenia.net", "city": "Tokyo" },
+    { "id": 4, "name": "Patricia Lebsack", "email": "Julianne.OConner@kory.org", "city": "London" },
+    { "id": 5, "name": "Chelsey Dietrich", "email": "Lucio_Hettinger@annie.ca", "city": "London" },
+    { "id": 6, "name": "Mrs. Dennis Schulist", "email": "Karley_Dach@jasper.info", "city": "Roma" },
+    { "id": 7, "name": "Kurtis Weissnat", "email": "Telly.Hoeger@billy.biz", "city": "London" }
 ],
-  "cities": [
-    {"id": 1, "name": "London"},
-    {"id": 2, "name": "Paris"}, 
-    {"id": 3, "name": "Roma"},
-    {"id": 4, "name": "Tokyo"},
-    {"id": 5, "name": "Moscow"},
-    {"id": 6, "name": "Beijing"}, 
-    {"id": 7, "name": "Oslo"},
-    {"id": 8, "name": "Madrid"},
-    {"id": 9, "name": "Riga"},
-    {"id": 10, "name": "Berlin"}, 
-    {"id": 11, "name": "Ankara"},
-    {"id": 12, "name": "Stockholm"},
-    {"id": 13, "name": "New Delhi"},
-    {"id": 14, "name": "Vienna"},
-    {"id": 15, "name": "Athens"},
-    {"id": 16, "name": "Nicosia"}
+  "cities": ["London", "Paris", "Roma", "Tokyo", "Moscow", "Beijing", "Oslo", "Madrid", "Riga", 
+             "Berlin", "Ankara", "Stockholm", "New Delhi", "Vienna", "Athens", "Nicosia"}
   ],
   "profile": {
     "name": "typicode"
