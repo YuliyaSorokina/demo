@@ -9,7 +9,7 @@
     { "id": 7, "name": "Kurtis Weissnat", "email": "Telly.Hoeger@billy.biz", "city": "London" }
 ],
   "cities": ["London", "Paris", "Roma", "Tokyo", "Moscow", "Beijing", "Oslo", "Madrid", "Riga", 
-             "Berlin", "Ankara", "Stockholm", "New Delhi", "Vienna", "Athens", "Nicosia"}
+             "Berlin", "Ankara", "Stockholm", "New Delhi", "Vienna", "Athens", "Nicosia"}]
   ],
   "profile": {
     "name": "typicode"
