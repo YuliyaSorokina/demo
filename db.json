@@ -1,6 +1,6 @@
 {
   "users": [
-        { "id": 1, "name": "Leanne Graham", "email": "Sincere@april.biz", "city": "Tokyo" },
+    { "id": 1, "name": "Leanne Graham", "email": "Sincere@april.biz", "city": "Tokyo" },
     { "id": 2, "name": "Ervin Howell", "email": "Shanna@melissa.tv", "city": "London" },
     { "id": 3, "name": "Clementine Bauch", "email": "Nathan@yesenia.net", "city": "Tokyo" },
     { "id": 4, "name": "Patricia Lebsack", "email": "Julianne.OConner@kory.org", "city": "London" },
